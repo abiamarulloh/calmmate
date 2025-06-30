@@ -32,7 +32,7 @@ export const Header: React.FC<HeaderProps> = ({ selectedLanguage, onLanguageChan
           : "Ruang aman untuk berbagi perasaanmu. Saya di sini untuk mendengarkan dengan empati dan memberikan dukungan yang lembut."
         }
       </p>
-      <span class="badge">Built with Bolt.new</span>
+      <span class="bg-blue">Built with Bolt.new</span>
     </div>
   );
 };
